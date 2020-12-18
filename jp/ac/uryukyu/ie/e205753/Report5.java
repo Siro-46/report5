@@ -5,5 +5,4 @@ public class Report5 {
         String str = null;
         System.out.println(str.length());
     }
-    
 }
